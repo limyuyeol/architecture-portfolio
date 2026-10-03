@@ -710,5 +710,418 @@
     "media": "ppt/media/image117.png",
     "width": 1130,
     "height": 2259
+  },
+  {
+    "asset": "materials-04.webp",
+    "width": 2600,
+    "height": 1463,
+    "source": "3학년\\1학기\\건축재료\\건축재료 08조 발표자료.pdf",
+    "page": 4,
+    "crop": null
+  },
+  {
+    "asset": "materials-10.webp",
+    "width": 2600,
+    "height": 1463,
+    "source": "3학년\\1학기\\건축재료\\건축재료 08조 발표자료.pdf",
+    "page": 10,
+    "crop": null
+  },
+  {
+    "asset": "materials-11.webp",
+    "width": 2600,
+    "height": 1463,
+    "source": "3학년\\1학기\\건축재료\\건축재료 08조 발표자료.pdf",
+    "page": 11,
+    "crop": null
+  },
+  {
+    "asset": "materials-12.webp",
+    "width": 2600,
+    "height": 1463,
+    "source": "3학년\\1학기\\건축재료\\건축재료 08조 발표자료.pdf",
+    "page": 12,
+    "crop": null
+  },
+  {
+    "asset": "materials-14.webp",
+    "width": 2600,
+    "height": 1463,
+    "source": "3학년\\1학기\\건축재료\\건축재료 08조 발표자료.pdf",
+    "page": 14,
+    "crop": null
+  },
+  {
+    "asset": "materials-15.webp",
+    "width": 2600,
+    "height": 1463,
+    "source": "3학년\\1학기\\건축재료\\건축재료 08조 발표자료.pdf",
+    "page": 15,
+    "crop": null
+  },
+  {
+    "asset": "materials-17.webp",
+    "width": 2600,
+    "height": 1463,
+    "source": "3학년\\1학기\\건축재료\\건축재료 08조 발표자료.pdf",
+    "page": 17,
+    "crop": null
+  },
+  {
+    "asset": "road-01.webp",
+    "width": 2600,
+    "height": 3675,
+    "source": "3학년\\2학기\\건축음향\\도로교통소음 측정 및 방음벽 성능평가 실습보고서.pdf",
+    "page": 1,
+    "crop": null
+  },
+  {
+    "asset": "road-02.webp",
+    "width": 2600,
+    "height": 3675,
+    "source": "3학년\\2학기\\건축음향\\도로교통소음 측정 및 방음벽 성능평가 실습보고서.pdf",
+    "page": 2,
+    "crop": null
+  },
+  {
+    "asset": "wall-01.webp",
+    "width": 2600,
+    "height": 3675,
+    "source": "3학년\\2학기\\건축음향\\잔향실 벽체 차음 성능평가 실습보고서.pdf",
+    "page": 1,
+    "crop": null
+  },
+  {
+    "asset": "wall-02.webp",
+    "width": 2600,
+    "height": 3675,
+    "source": "3학년\\2학기\\건축음향\\잔향실 벽체 차음 성능평가 실습보고서.pdf",
+    "page": 2,
+    "crop": null
+  },
+  {
+    "asset": "absorption-01.webp",
+    "width": 2600,
+    "height": 3675,
+    "source": "3학년\\2학기\\건축음향\\흡음재 흡음률 측정 및 성능평가 실습보고서.pdf",
+    "page": 1,
+    "crop": null
+  },
+  {
+    "asset": "absorption-02.webp",
+    "width": 2600,
+    "height": 3675,
+    "source": "3학년\\2학기\\건축음향\\흡음재 흡음률 측정 및 성능평가 실습보고서.pdf",
+    "page": 2,
+    "crop": null
+  },
+  {
+    "asset": "elevator-06.webp",
+    "width": 2600,
+    "height": 1463,
+    "source": "3학년\\2학기\\건축환경조절시스템설계\\승강기 내부의 열적 쾌적성 개선 방안.pdf",
+    "page": 6,
+    "crop": null
+  },
+  {
+    "asset": "elevator-07.webp",
+    "width": 2600,
+    "height": 1463,
+    "source": "3학년\\2학기\\건축환경조절시스템설계\\승강기 내부의 열적 쾌적성 개선 방안.pdf",
+    "page": 7,
+    "crop": null
+  },
+  {
+    "asset": "elevator-08.webp",
+    "width": 2600,
+    "height": 1463,
+    "source": "3학년\\2학기\\건축환경조절시스템설계\\승강기 내부의 열적 쾌적성 개선 방안.pdf",
+    "page": 8,
+    "crop": null
+  },
+  {
+    "asset": "elevator-13.webp",
+    "width": 2600,
+    "height": 1463,
+    "source": "3학년\\2학기\\건축환경조절시스템설계\\승강기 내부의 열적 쾌적성 개선 방안.pdf",
+    "page": 13,
+    "crop": null
+  },
+  {
+    "asset": "elevator-16.webp",
+    "width": 2600,
+    "height": 1463,
+    "source": "3학년\\2학기\\건축환경조절시스템설계\\승강기 내부의 열적 쾌적성 개선 방안.pdf",
+    "page": 16,
+    "crop": null
+  },
+  {
+    "asset": "elevator-17.webp",
+    "width": 2600,
+    "height": 1463,
+    "source": "3학년\\2학기\\건축환경조절시스템설계\\승강기 내부의 열적 쾌적성 개선 방안.pdf",
+    "page": 17,
+    "crop": null
+  },
+  {
+    "asset": "elevator-19.webp",
+    "width": 2600,
+    "height": 1463,
+    "source": "3학년\\2학기\\건축환경조절시스템설계\\승강기 내부의 열적 쾌적성 개선 방안.pdf",
+    "page": 19,
+    "crop": null
+  },
+  {
+    "asset": "elevator-20.webp",
+    "width": 2600,
+    "height": 1463,
+    "source": "3학년\\2학기\\건축환경조절시스템설계\\승강기 내부의 열적 쾌적성 개선 방안.pdf",
+    "page": 20,
+    "crop": null
+  },
+  {
+    "asset": "pc-panel-01.webp",
+    "width": 2600,
+    "height": 3901,
+    "source": "3학년\\2학기\\창의적건축공학설계\\PC 습식 접합부 성능 개선 공법 제안 (최종안).pdf",
+    "page": 1,
+    "crop": null
+  },
+  {
+    "asset": "pc-11.webp",
+    "width": 2600,
+    "height": 1463,
+    "source": "3학년\\2학기\\창의적건축공학설계\\PC 습식 접합부 성능 개선 공법 제안 ppt (최종안).pdf",
+    "page": 11,
+    "crop": null
+  },
+  {
+    "asset": "pc-14.webp",
+    "width": 2600,
+    "height": 1463,
+    "source": "3학년\\2학기\\창의적건축공학설계\\PC 습식 접합부 성능 개선 공법 제안 ppt (최종안).pdf",
+    "page": 14,
+    "crop": null
+  },
+  {
+    "asset": "pc-16.webp",
+    "width": 2600,
+    "height": 1463,
+    "source": "3학년\\2학기\\창의적건축공학설계\\PC 습식 접합부 성능 개선 공법 제안 ppt (최종안).pdf",
+    "page": 16,
+    "crop": null
+  },
+  {
+    "asset": "pc-17.webp",
+    "width": 2600,
+    "height": 1463,
+    "source": "3학년\\2학기\\창의적건축공학설계\\PC 습식 접합부 성능 개선 공법 제안 ppt (최종안).pdf",
+    "page": 17,
+    "crop": null
+  },
+  {
+    "asset": "pc-18.webp",
+    "width": 2600,
+    "height": 1463,
+    "source": "3학년\\2학기\\창의적건축공학설계\\PC 습식 접합부 성능 개선 공법 제안 ppt (최종안).pdf",
+    "page": 18,
+    "crop": null
+  },
+  {
+    "asset": "floor-sound-01.webp",
+    "width": 2600,
+    "height": 3677,
+    "source": "3학년\\2학기\\창의적건축공학설계\\비접촉식 공기층 제어를 통한 바닥충격음 저감 시스템.pdf",
+    "page": 1,
+    "crop": null
+  },
+  {
+    "asset": "floor-sound-02.webp",
+    "width": 2600,
+    "height": 3677,
+    "source": "3학년\\2학기\\창의적건축공학설계\\비접촉식 공기층 제어를 통한 바닥충격음 저감 시스템.pdf",
+    "page": 2,
+    "crop": null
+  },
+  {
+    "asset": "floor-sound-03.webp",
+    "width": 2600,
+    "height": 3677,
+    "source": "3학년\\2학기\\창의적건축공학설계\\비접촉식 공기층 제어를 통한 바닥충격음 저감 시스템.pdf",
+    "page": 3,
+    "crop": null
+  },
+  {
+    "asset": "rc-01.webp",
+    "width": 2600,
+    "height": 3675,
+    "source": "4학년\\1학기\\철근콘크리트구조설계\\철근콘크리트구조설계1 Study 과제 최종본.pdf",
+    "page": 1,
+    "crop": null
+  },
+  {
+    "asset": "rc-02.webp",
+    "width": 2600,
+    "height": 3675,
+    "source": "4학년\\1학기\\철근콘크리트구조설계\\철근콘크리트구조설계1 Study 과제 최종본.pdf",
+    "page": 2,
+    "crop": null
+  },
+  {
+    "asset": "rc-03.webp",
+    "width": 2600,
+    "height": 3675,
+    "source": "4학년\\1학기\\철근콘크리트구조설계\\철근콘크리트구조설계1 Study 과제 최종본.pdf",
+    "page": 3,
+    "crop": null
+  },
+  {
+    "asset": "rc-04.webp",
+    "width": 2600,
+    "height": 3675,
+    "source": "4학년\\1학기\\철근콘크리트구조설계\\철근콘크리트구조설계1 Study 과제 최종본.pdf",
+    "page": 4,
+    "crop": null
+  },
+  {
+    "asset": "rc-05.webp",
+    "width": 2600,
+    "height": 3675,
+    "source": "4학년\\1학기\\철근콘크리트구조설계\\철근콘크리트구조설계1 Study 과제 최종본.pdf",
+    "page": 5,
+    "crop": null
+  },
+  {
+    "asset": "garden-house.webp",
+    "width": 2600,
+    "height": 1950,
+    "source": "3학년\\1학기\\주거형태와문화\\KakaoTalk_20211118_151522044.jpg",
+    "page": null,
+    "crop": null
+  },
+  {
+    "asset": "street-panel.webp",
+    "width": 2600,
+    "height": 3681,
+    "source": "1학년\\1학기\\인쇄의거리 도시재생뉴딜구역 대학생 아이디어 공모전 우수상 패널.jpg",
+    "page": null,
+    "crop": null
+  },
+  {
+    "asset": "street-award.webp",
+    "width": 1984,
+    "height": 3024,
+    "source": "1학년/1학기/상장.jpg",
+    "page": null,
+    "crop": [
+      2048,
+      0,
+      4032,
+      3024
+    ]
+  },
+  {
+    "asset": "pc-award.webp",
+    "width": 1037,
+    "height": 1440,
+    "source": "3학년\\2학기\\창의적건축공학설계\\상장.jpg",
+    "page": null,
+    "crop": null
+  },
+  {
+    "asset": "neural-01.webp",
+    "width": 512,
+    "height": 305,
+    "source": "4학년\\1학기\\스마트건축시스템\\KakaoTalk_20261004_011546056.png",
+    "page": null,
+    "crop": null
+  },
+  {
+    "asset": "neural-02.webp",
+    "width": 512,
+    "height": 305,
+    "source": "4학년\\1학기\\스마트건축시스템\\KakaoTalk_20261004_011546056_01.png",
+    "page": null,
+    "crop": null
+  },
+  {
+    "asset": "neural-03.webp",
+    "width": 989,
+    "height": 590,
+    "source": "4학년\\1학기\\스마트건축시스템\\KakaoTalk_20261004_011546056_02.png",
+    "page": null,
+    "crop": null
+  },
+  {
+    "asset": "neural-04.webp",
+    "width": 989,
+    "height": 590,
+    "source": "4학년\\1학기\\스마트건축시스템\\KakaoTalk_20261004_011546056_03.png",
+    "page": null,
+    "crop": null
+  },
+  {
+    "asset": "bim-06.webp",
+    "width": 518,
+    "height": 928,
+    "source": "4학년\\1학기\\스마트건축시스템\\스마트건축시스템_6조.pptx",
+    "page": 6,
+    "crop": "슬라이드 내 주요 이미지 추출"
+  },
+  {
+    "asset": "bim-07.webp",
+    "width": 494,
+    "height": 885,
+    "source": "4학년\\1학기\\스마트건축시스템\\스마트건축시스템_6조.pptx",
+    "page": 7,
+    "crop": "슬라이드 내 주요 이미지 추출"
+  },
+  {
+    "asset": "bim-10.webp",
+    "width": 965,
+    "height": 480,
+    "source": "4학년\\1학기\\스마트건축시스템\\스마트건축시스템_6조.pptx",
+    "page": 10,
+    "crop": "슬라이드 내 주요 이미지 추출"
+  },
+  {
+    "asset": "bim-11.webp",
+    "width": 792,
+    "height": 622,
+    "source": "4학년\\1학기\\스마트건축시스템\\스마트건축시스템_6조.pptx",
+    "page": 11,
+    "crop": "슬라이드 내 주요 이미지 추출"
+  },
+  {
+    "asset": "bim-12.webp",
+    "width": 1880,
+    "height": 882,
+    "source": "4학년\\1학기\\스마트건축시스템\\스마트건축시스템_6조.pptx",
+    "page": 12,
+    "crop": "슬라이드 내 주요 이미지 추출"
+  },
+  {
+    "asset": "bim-13.webp",
+    "width": 1892,
+    "height": 896,
+    "source": "4학년\\1학기\\스마트건축시스템\\스마트건축시스템_6조.pptx",
+    "page": 13,
+    "crop": "슬라이드 내 주요 이미지 추출"
+  },
+  {
+    "asset": "rc-curve.webp",
+    "width": 1651,
+    "height": 1268,
+    "source": "4학년/1학기/철근콘크리트구조설계/철근콘크리트구조설계1 Study 과제 최종본.pdf",
+    "page": 5,
+    "crop": {
+      "from_asset": "rc-05.webp",
+      "pixels": [
+        585,
+        1874,
+        2236,
+        3142
+      ]
+    }
   }
 ]
