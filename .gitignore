@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+Desktop.ini
+.env
+.env.*
+node_modules/
+*.ppt
+*.pptx
+_작업자료/
